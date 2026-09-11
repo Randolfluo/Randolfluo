@@ -6,7 +6,7 @@
 
 [Blog](https://randolfluo.github.io/) · [Articles](https://randolfluo.github.io/blog/) · [GitHub](https://github.com/Randolfluo)
 
-从理解系统，到动手实现，再把过程写下来。
+
 
 </div>
 
@@ -14,9 +14,7 @@
 
 ## About Me
 
-你好，我是 **Randolfluo**，目前在暨南大学学习网络空间安全，本科就读于嘉兴大学网络工程专业。
 
-我喜欢通过项目与实验理解计算机系统：从 C++ 网络编程、操作系统内核，到程序运行机制与应用开发。这个主页收集我的项目实践，博客记录其中的问题、思考与实现过程。
 
 ```text
 Randolfluo
